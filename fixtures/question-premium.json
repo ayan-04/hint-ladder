@@ -1,0 +1,12 @@
+{
+  "data": {
+    "question": {
+      "title": "Number of Visible People in a Queue",
+      "titleSlug": "number-of-visible-people-in-a-queue",
+      "difficulty": "Hard",
+      "content": null,
+      "topicTags": [{ "name": "Stack", "slug": "stack" }],
+      "exampleTestcases": ""
+    }
+  }
+}

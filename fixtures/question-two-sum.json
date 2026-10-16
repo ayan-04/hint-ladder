@@ -1,0 +1,15 @@
+{
+  "data": {
+    "question": {
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "content": "<p>Given an array of integers <code>nums</code> and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to target</em>.</p><p>You may assume that each input would have <strong>exactly one solution</strong>, and you may not use the same element twice.</p><p><strong>Example 1:</strong></p><pre><code>Input: nums = [2,7,11,15], target = 9\nOutput: [0,1]\nExplanation: Because nums[0] + nums[1] == 9, we return [0, 1].</code></pre><p><strong>Constraints:</strong></p><ul><li><code>2 &lt;= nums.length &lt;= 10<sup>4</sup></code></li><li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li><li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li><li>Only one valid answer exists.</li></ul>",
+      "topicTags": [
+        { "name": "Array", "slug": "array" },
+        { "name": "Hash Table", "slug": "hash-table" }
+      ],
+      "exampleTestcases": "[2,7,11,15]\n9\n[3,2,4]\n6"
+    }
+  }
+}
